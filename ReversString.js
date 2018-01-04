@@ -1,4 +1,4 @@
-//Write a Function to Reverse String with help of a function.
+//Write a Function to Reverse String 
 
 //Method 1 using split(),Reverse(),join()
 function ReverseMyString(str) {
