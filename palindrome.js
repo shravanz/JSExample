@@ -8,7 +8,7 @@ function isPaliOrNot(str) {
         console.log('it is not a palindrome');
     }
 };
-isPaliOrNot('abba'); 
+isPaliOrNot('abba');
 //Output ==> it is a palindrome
 isPaliOrNot('dabba');
 //Output ==> it is not a palindrome
