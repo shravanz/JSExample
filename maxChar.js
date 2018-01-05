@@ -16,7 +16,6 @@ function maxChar(str) {
         if (charMap[i] > max) {
             max = charMap[i];
             maxChar = i;
-
         }
         else {
             return maxChar;
