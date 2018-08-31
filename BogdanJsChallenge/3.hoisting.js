@@ -16,7 +16,6 @@
 
 var a = 5;
 b = 10;
-
 if (b > a) {
   c = a + b + c;
   var c = 2; //
